@@ -5,7 +5,7 @@ def main(page: ft.Page):
     page.title = "Teste do Flet"
 
     texto = ft.Text(
-        "Flet funcionando!",
+        "Flet funcionando!!!!",
         size=30
     )
 
